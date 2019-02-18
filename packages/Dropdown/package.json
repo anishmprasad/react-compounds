@@ -1,6 +1,6 @@
 {
 	"name": "@react-compounds/dropdown",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "",
 	"main": "index.js",
 	"repository": {
@@ -15,5 +15,6 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC"
+	"license": "ISC",
+	"gitHead": "b55b1f9e350b2204e288b673637fc0da04643dcc"
 }
