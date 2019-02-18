@@ -3,13 +3,17 @@
 		"lerna": "^3.13.0"
 	},
 	"name": "react-compounds",
-	"description": "react-components",
-	"version": "1.0.0",
+	"description": "react-compounds",
+	"version": "1.0.2",
 	"main": "index.js",
 	"scripts": {
-		"start": "npm -C ./packages/usage run start"
+		"start": "npm -C ./packages/Dropdown run start",
+		"lerna": "lerna bootstrap"
 	},
-	"keywords": [],
-	"author": "",
+	"keywords": [
+		"lerna",
+		"webpack"
+	],
+	"author": "anish.m.prasad@gmail.com",
 	"license": "ISC"
 }
