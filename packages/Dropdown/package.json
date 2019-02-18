@@ -13,8 +13,11 @@
 	"dependencies": {
 		"react-custom-dropdown": "jithin012/react-custom-dropdown#master"
 	},
+	"publishConfig": {
+		"access": "public"
+	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"gitHead": "74c9bf3b0e7d1dd11b2d511513dbcc9bee7039f0"
+	"gitHead": "3e31d575e3a1816695fead97c65925c79032d0ca"
 }
