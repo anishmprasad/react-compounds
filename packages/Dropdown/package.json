@@ -16,7 +16,9 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"keywords": [],
+	"keywords": [
+		"dropdown"
+	],
 	"author": "",
 	"license": "ISC",
 	"gitHead": "b248c92e56108bb327b6d5e56876099644b2483f"
