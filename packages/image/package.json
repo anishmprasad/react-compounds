@@ -1,17 +1,17 @@
 {
-	"name": "@react-compounds/dropdown",
+	"name": "@react-compounds/image",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jithin012/react-custom-dropdown.git"
+		"url": "git+https://github.com/anishmprasad/react-imgr.git"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"dependencies": {
-		"react-custom-dropdown": "jithin012/react-custom-dropdown#master"
+		"react-imgr": "^1.0.2"
 	},
 	"publishConfig": {
 		"access": "public"
