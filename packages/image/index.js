@@ -1,2 +1,2 @@
-var Dropdown = require('react-imgr');
-module.exports = Dropdown;
+var Image = require('react-imgr');
+module.exports = Image;
